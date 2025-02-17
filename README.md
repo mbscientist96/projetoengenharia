@@ -1,24 +1,5 @@
-# ecommerce-ui
+Projeto E-commerce que funciona como um site de compras de roupas.
 
-## Project setup
-```
-npm install
-```
+Ele funciona apenas local e não tem domínio.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Caso não funcionar e ter curiosidade de como funciona, entrar em contato mbcomputerscientist@gmail.com 
